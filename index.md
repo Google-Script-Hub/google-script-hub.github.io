@@ -15,12 +15,12 @@ layout: default
 ### Google Sheet
 
 * [Tạo ứng dụng Google App Script từ Google Sheet](/new-app-script-from-google-sheet)
-* [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Apps Script](/send-notification-to-telegram)
+* [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](/send-notification-to-telegram)
 * [Tạo hàm tính toán mới cho Google Sheet](/new-func-calc-google-sheet)
 
-<!-- ### App Store
+### External
 
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
-* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup> -->
+* <a href="https://developers.google.com/apps-script/reference" target="_blank">Google App Script Docs</a> <sup class="ext">Ext</sup>
+* <a href="https://github.com/googleworkspace/apps-script-samples" target="_blank">App Script Example By Google Github Repository</a><sup class="ext">Ext</sup>
 
 {% include closecol.html closerow=true %}
