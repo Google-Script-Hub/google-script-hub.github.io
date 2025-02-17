@@ -21,7 +21,7 @@ layout: default
 ### External
 
 * <a href="https://developers.google.com/apps-script/reference" target="_blank">Google App Script Docs</a> <sup class="ext">Ext</sup>
-* <a href="https://github.com/googleworkspace/apps-script-samples" target="_blank">App Script Example By Google Github Repository</a><sup class="ext">Ext</sup>
-* <a href="https://github.com/Google-Script-Hub/google-apps-script-awesome-list" target="_blank">Tổng hợp nguồn học, ví dụ Google App Script</a>
+* <a href="https://github.com/googleworkspace/apps-script-samples" target="_blank">App Script Example bởi Google Github Repository</a><sup class="ext">Ext</sup>
+* <a href="https://github.com/Google-Script-Hub/google-apps-script-awesome-list" target="_blank">Tổng hợp nguồn học, ví dụ Google App Script</a><sup class="ext">Ext</sup>
 
 {% include closecol.html closerow=true %}
