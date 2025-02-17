@@ -16,6 +16,7 @@ layout: default
 
 * [Tạo ứng dụng Google App Script từ Google Sheet](/new-app-script-from-google-sheet)
 * [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Apps Script](/send-notification-to-telegram)
+* [Tạo hàm tính toán mới cho Google Sheet](/new-func-calc-google-sheet)
 
 <!-- ### App Store
 
