@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Apps Script
-description: Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Apps Script
+title: Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script
+description: Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script
 redirect_from:
   - /5/
   - /notification-to-telegram-google-sheet/

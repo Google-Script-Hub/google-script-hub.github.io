@@ -18,6 +18,10 @@ layout: default
 * [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](/send-notification-to-telegram)
 * [Tạo hàm tính toán mới cho Google Sheet](/new-func-calc-google-sheet)
 
+### Gmail
+
+* [Tạo Bot Telegram Thông Báo Email chưa đọc cuối ngày](/gmail-unread-count-inbox)
+
 ### External
 
 * <a href="https://developers.google.com/apps-script/reference" target="_blank">Google App Script Docs</a> <sup class="ext">Ext</sup>
