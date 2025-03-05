@@ -22,6 +22,10 @@ layout: default
 
 * [Tạo Bot Telegram Thông Báo Email chưa đọc cuối ngày](/gmail-unread-count-inbox)
 
+### Google Docs
+
+* [Tô màu keyword trong Google Docs](/color-text-keyword-in-google-docs)
+
 ### External
 
 * <a href="https://developers.google.com/apps-script/reference" target="_blank">Google App Script Docs</a> <sup class="ext">Ext</sup>
