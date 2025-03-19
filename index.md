@@ -27,6 +27,10 @@ layout: default
 
 * [Tô màu keyword trong Google Docs](/color-text-keyword-in-google-docs)
 
+### Triển khai
+
+* [Tùy chọn triển khai thư viện với Google App Script](/deploy-lib)
+
 ### External
 
 * <a href="https://developers.google.com/apps-script/reference" target="_blank">Google App Script Docs</a> <sup class="ext">Ext</sup>
