@@ -19,4 +19,4 @@ function sendLogEmail() {
 
 Bạn có thể kết hợp với các bài viết [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](https://google-script-hub.github.io/send-notification-to-telegram) để lấy dữ liệu từ Google Sheet gửi email marketing tới email tương ứng trên Google sheet để đỡ phải soạn thảo từng email một.
 
-Google App Script là một công cụ tối ưu, tự động hóa công việc cá nhân.
+Google App Script là một công cụ tối ưu, tự động hóa công việc cá nhân mạnh mẽ và đặc biệt là nó miễn phí.

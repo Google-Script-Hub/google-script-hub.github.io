@@ -21,6 +21,7 @@ layout: default
 ### Gmail
 
 * [Tạo Bot Telegram Thông Báo Email chưa đọc cuối ngày](/gmail-unread-count-inbox)
+* [Gửi email với Google App Script](/send-email)
 
 ### Google Docs
 
