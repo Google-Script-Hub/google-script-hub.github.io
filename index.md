@@ -14,9 +14,9 @@ layout: default
 
 ### Google Sheet
 
-* [Tạo ứng dụng Google App Script từ Google Sheet](/new-app-script-from-google-sheet)
+* [Tạo ứng dụng Google App Script từ Google Sheets](/new-app-script-from-google-sheets)
 * [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](/send-notification-to-telegram)
-* [Tạo hàm tính toán mới cho Google Sheet](/new-func-calc-google-sheet)
+* [Tạo hàm tính toán mới cho Google Sheets](/new-func-calc-google-sheets)
 
 ### Gmail
 
@@ -25,7 +25,9 @@ layout: default
 
 ### Google Docs
 
+* [Tạo ứng dụng Google App Script từ Google Docs](/create-google-app-script-from-google-docs)
 * [Tô màu keyword trong Google Docs](/color-text-keyword-in-google-docs)
+* [Tạo menu mới trong Google Docs, chèn nội dung mới vào vị trí đặt con trỏ trong Google Docs](/insert-text-to-google-docs)
 
 ### Triển khai
 
