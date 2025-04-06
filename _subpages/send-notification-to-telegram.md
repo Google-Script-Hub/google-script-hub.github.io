@@ -229,3 +229,5 @@ function sendToTelegram(message){
 ```
 
 Bây giờ lập lịch để tự động chạy mỗi ngày, theo dõi thêm bài [Schedule](https://google-script-hub.github.io/schedule).
+
+Xem mã nguồn qua phần `Tiện ích -> App Script` của file [https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA/edit?usp=sharing)

@@ -54,3 +54,5 @@ function insertFormattedText() {
 Quay lại file Google Doc để kiểm tra kết quả:
 
 <img src="./../img/11_2.png" style="max-width: 100%">
+
+Xem mã nguồn trong phần `Tiện ích -> App Script` của file Google Docs [https://docs.google.com/document/d/1I894aTTHqAwZfFqIZUilTOgBdx7tWrswiCtB8dCZYwU/edit?usp=sharing](https://docs.google.com/document/d/1I894aTTHqAwZfFqIZUilTOgBdx7tWrswiCtB8dCZYwU/edit?usp=sharing), file `menu_new.gs`.

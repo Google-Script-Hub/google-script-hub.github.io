@@ -70,3 +70,5 @@ Chạy chương trình với hàm chính là hàm `main` sẽ có được kết
 <img src="./../img/8_2.png" style="max-width: 100%">
 
 <img src="./../img/8_3.png" style="max-width: 100%">
+
+Xem mã nguồn trong phần `Tiện ích -> App Script` của file Google Docs [https://docs.google.com/document/d/1I894aTTHqAwZfFqIZUilTOgBdx7tWrswiCtB8dCZYwU/edit?usp=sharing](https://docs.google.com/document/d/1I894aTTHqAwZfFqIZUilTOgBdx7tWrswiCtB8dCZYwU/edit?usp=sharing), file `color_text.gs`.
