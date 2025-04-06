@@ -7,7 +7,7 @@ redirect_from:
   - /create-google-app-script-from-google-docs/
 ---
 
-Một ứng dụng Google App Script có thể tạo độc lập từ [https://script.google.com/home/](https://script.google.com/home/), tuy nhiên hoàn toàn có thể tạo ứng dụng Google App Script từ một ứng dụng Google Doc, ứng dụng được tạo sẽ chỉ "phục vụ" riêng Google Doc này.
+Một ứng dụng Google App Script có thể tạo độc lập từ [https://script.google.com/home/](https://script.google.com/home/), tuy nhiên hoàn toàn có thể tạo ứng dụng Google App Script từ một ứng dụng Google Doc, ứng dụng được tạo sẽ "phục vụ" riêng Google Doc này.
 
 Tạo một ứng dụng Google Sheet trước, lưu ý là phải là Google Doc, nếu ứng là một file Excel (`.doc`, `.docx`) được tải lên và mở qua Google Doc sẽ không sử dụng được Google App Script.
 

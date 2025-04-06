@@ -81,7 +81,7 @@ function main() {
 }
 ```
 
-Hàm `sendMessage` và `formatDate` để địng dạng lại ngày tháng và gửi tin nhắn qua Telegram đã được giới thiệu ở bài [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](https://google-script-hub.github.io/send-notification-to-telegram). Trong bài sau mình sẽ hướng dẫn các bạn sử dụng thư viện để tránh việc lặp đi lặp lại code nhiều lần không cần thiết.
+Hàm `sendMessage` và `formatDate` để định dạng lại ngày tháng và gửi tin nhắn qua Telegram đã được giới thiệu ở bài [Tạo Bot Telegram Thông Báo Công Việc Từ Google Sheets Bằng Google Apps Script](https://google-script-hub.github.io/send-notification-to-telegram). Trong bài sau mình sẽ hướng dẫn các bạn sử dụng thư viện để tránh việc lặp đi lặp lại code nhiều lần không cần thiết.
 
 Vậy là xong, bây giờ lập lịch cho nó chạy khoảng 10-11h tối, lập lịch như nào có thể theo dõi lại bài viết [Lập lịch (Schedule)](https://google-script-hub.github.io/schedule).
 

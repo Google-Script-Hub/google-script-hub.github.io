@@ -7,9 +7,9 @@ redirect_from:
   - /insert-text-to-google-docs/
 ---
 
-Mở một App Script trong file Google Doc mà muốn xử lý chèn dữ liệu theo hướng dẫn bài viết [Tạo ứng dụng Google App Script từ Google Docs](/create-google-app-script-from-google-docs).
+Tạo một App Script mới theo hướng dẫn trong bài viêt [Tạo ứng dụng Google App Script từ Google Docs](/create-google-app-script-from-google-docs).
 
-Trong Google Apps Script, hàm `onOpen()` là một hàm đặc biệt (special trigger) được tự động gọi khi tài liệu (Google Docs, Sheets, Slides, hoặc Forms) được mở. Điều này rất hữu ích vì nó giúp chúng nó không cần phải vào script để chạy nó thủ công. Nó thường được sử dụng để thực hiện các tác vụ khởi tạo, chẳng hạn như:
+Trong Google Apps Script, hàm `onOpen()` là một hàm đặc biệt (special trigger) được tự động gọi khi tài liệu (Google Docs, Sheets, Slides, hoặc Forms) được mở. Điều này rất hữu ích vì khi giúp chúng ta không cần phải vào script để chạy thủ công. Hàm thường được sử dụng để thực hiện các tác vụ khởi tạo, chẳng hạn như:
 
 - Tạo menu
 - Khởi tạo thiết lập: thông báo, thống kê

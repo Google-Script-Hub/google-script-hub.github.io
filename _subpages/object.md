@@ -6,7 +6,7 @@ redirect_from:
   - /3/
 ---
 
-Theo mình khi lập trình Google App Script chỉ cần lập trình theo chức năng và lập trình hàm là được, tuy nhiên vì dựa trên Javascript nên Google App Script vẫn có Object.
+Vì dựa trên Javascript nên Google App Script vẫn có Object. Về đa số, Google App Script chỉ cần lập trình hàm là đủ, tuy nhiên để cho mã trở lên sáng sủa hơn chúng ta có thể sử dụng thêm Object.
 
 Object trong Google App Script được khai báo và goi như sau: 
 

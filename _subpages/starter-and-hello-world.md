@@ -16,7 +16,9 @@ Ngoài ra, Apps Script cho phép bạn xây dựng các ứng dụng tự độn
 
 Quản lý các dự án Google App Script tại [https://script.google.com/home](https://script.google.com/home).
 
-## Hello World 
+Google App Script sẽ là một công cụ tuyệt vời giúp tự động hóa các tác vụ cá nhân với các dịch vụ của Google hoặc một số tác vụ tự động hóa liên quan. Các bài viết trong website sẽ mang tới ví dụ trực quan về tự động hóa tác vụ
+
+## Chương trình Hello World với Google App Script
 
 Google App Script sử dụng `Logger` để in thông tin ra console thuận tiện cho lập trình viên có thể debug và xem các giá trị. Một chương trình in ra màn hình dòng chữ `Hello World` với Google App Script đơn giản như sau: 
 

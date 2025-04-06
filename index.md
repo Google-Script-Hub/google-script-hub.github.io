@@ -32,6 +32,7 @@ layout: default
 ### Triển khai
 
 * [Tùy chọn triển khai thư viện với Google App Script](/deploy-lib)
+* [Triển khai ứng dụng web đơn giản với Google App Script - Simple Web Form](/deploy-website-simple-web-form)
 
 ### External
 
