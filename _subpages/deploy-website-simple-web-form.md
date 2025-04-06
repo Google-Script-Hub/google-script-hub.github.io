@@ -14,16 +14,16 @@ Tạo một web form đơn giản (HTML) chạy bằng Google Apps Script. Khi n
 
 Gồm 1 file html để hiển thị giao diện cho người dùng, và 1 file `main.gs` để xử lý logic.
 
-- `index.html`
-- `main.gs`
+* `index.html`
+* `main.gs`
 
 ## Tạo Project
 
-- Truy cập https://script.google.com
+* Truy cập https://script.google.com
 
-- Chọn “New project”
+* Chọn “New project”
 
-- Đặt tên cho dự án, `GoogleScriptHub_SimpleWebForm`
+* Đặt tên cho dự án, `GoogleScriptHub_SimpleWebForm`
 
 ## Code file `main.gs`
 
