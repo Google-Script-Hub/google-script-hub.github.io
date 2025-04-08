@@ -110,4 +110,4 @@ Nhập thông tin, bấm submit thử và xem lại thông tin đã nhập trong
 
 <img src="./../img/12_3.png" style="max-width: 100%">
 
-Xem mã nguồn của Project tại: [https://script.google.com/d/1ipdLBwzw6i5GJ8mxYmAAeKvJZhaMJgICTLNeV84KBesOBcngrFv2Xov2/edit?usp=sharing](https://script.google.com/d/1ipdLBwzw6i5GJ8mxYmAAeKvJZhaMJgICTLNeV84KBesOBcngrFv2Xov2/edit?usp=sharing) và kết quả sau khi submit tại Sheet `SimpleWebForm` của file [https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA/edit?usp=sharing).
+Xem mã nguồn của Project tại: [https://script.google.com/d/1ipdLBwzw6i5GJ8mxYmAAeKvJZhaMJgICTLNeV84KBesOBcngrFv2Xov2/edit?usp=sharing](https://script.google.com/d/1ipdLBwzw6i5GJ8mxYmAAeKvJZhaMJgICTLNeV84KBesOBcngrFv2Xov2/edit?usp=sharing) và kết quả sau khi submit tại Sheet `SimpleWebForm` của file [https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA](https://docs.google.com/spreadsheets/d/1GVxZZm8jE7nzlZGKnIy4rFPiojtcXL_dOJ___OW7NeA).
